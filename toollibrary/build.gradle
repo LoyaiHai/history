@@ -45,8 +45,8 @@ afterEvaluate {
         publications {
             release(MavenPublication) {
                 from components.release
-                groupId = 'com.lhs.mylibrary' //groupId 随便取
-                artifactId = 'mylibrary'  //artifactId 随便取
+                groupId = 'com.lhs.toollibrary' //groupId 随便取
+                artifactId = 'toollibrary'  //artifactId 随便取
                 version = '1.0.1'
             }
         }
