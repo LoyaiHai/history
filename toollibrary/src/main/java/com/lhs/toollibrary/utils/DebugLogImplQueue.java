@@ -1,4 +1,4 @@
-package com.lhs.toollibrary;
+package com.lhs.toollibrary.utils;
 
 
 import java.util.concurrent.ArrayBlockingQueue;
